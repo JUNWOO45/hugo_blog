@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/JUNWOO45/junwoo45.github.io.git
+	branch = master
