@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2019-08-01T17:32:55+09:00
-draft: true
+# draft: true
 ---
 
 
@@ -18,5 +18,6 @@ test 작성중
 
 ~~이렇게~~
 
+#test21
 
 
